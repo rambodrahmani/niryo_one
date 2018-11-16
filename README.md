@@ -1,4 +1,6 @@
-# Niryo One
+# Niryo One fork To Provide Anycubic I3 Mega G-code files.
+
+Refer to the G-code folder for .gcode files (with support material) used to print Nyrio One with the Anycubic I3 Mega 3D Printer.
 
 (Niryo One : [https://niryo.com](https://niryo.com/?utm_source=github))
 
